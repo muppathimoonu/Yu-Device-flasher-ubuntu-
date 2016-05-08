@@ -4,4 +4,4 @@ Device flashing script for YU devices.<br>
 Download and copy the script to extracted COS directory.<br>
 Make the script executable [ chmode 777 Yu-device-flasher-33.sh ].<br>
 Right click and open terminal.<br>
-Run the script [ . flash-all.sh ]<br>
+Run the script [ . Yu-device-flasher-33.sh ]<br>
